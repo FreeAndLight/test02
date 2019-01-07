@@ -7,6 +7,6 @@ public class Demo {
     }
 
     private static void test() {
-
+        System.out.println("456");
     }
 }
